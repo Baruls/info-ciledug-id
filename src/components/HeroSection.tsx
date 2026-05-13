@@ -96,7 +96,7 @@ export default function HeroSection() {
             className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6 leading-none"
           >
             <span className="text-slate-900">Info</span>{" "}
-            <span className="gradient-text">Ciledug</span>
+            <span className="gradient-text">Ciledug.id</span>
           </motion.h1>
 
           {/* Sub */}

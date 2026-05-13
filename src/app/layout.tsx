@@ -9,14 +9,14 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Info Ciledug – Portal Informasi Lokal Ciledug",
+  title: "Info Ciledug.id – Portal Informasi Lokal Ciledug",
   description:
     "Portal informasi lokal terpercaya untuk warga Ciledug. Temukan kabar terkini, kuliner favorit, dan eksplorasi lokasi menarik di sekitar Ciledug.",
-  keywords: ["Ciledug", "info Ciledug", "berita Ciledug", "kuliner Ciledug", "lokasi Ciledug"],
+  keywords: ["Ciledug", "info Ciledug.id", "berita Ciledug", "kuliner Ciledug", "lokasi Ciledug"],
   openGraph: {
-    title: "Info Ciledug – Portal Informasi Lokal",
+    title: "Info Ciledug.id – Portal Informasi Lokal",
     description: "Kabar terkini, kuliner, dan eksplorasi Ciledug dalam satu halaman.",
-    siteName: "Info Ciledug",
+    siteName: "Info Ciledug.id",
     locale: "id_ID",
     type: "website",
   },
